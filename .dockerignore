@@ -1,0 +1,9 @@
+**/node_modules
+frontend/dist
+scraper/cache
+scraper/*.jsonl
+scraper/*.json
+brand
+.env
+**/__pycache__
+*.mp4
