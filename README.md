@@ -11,7 +11,7 @@
 
 <img src="assets/demo.gif" alt="Walkthrough of the concierge" width="720">
 
-**[Live demo →](https://darglobal-concierge.onrender.com)** &nbsp;·&nbsp; **[Case study on the portfolio →](https://shahzeb-naeem.vercel.app/en/work/darglobal-property-concierge)**
+**[Live demo →](https://darglobal-concierge.onrender.com)** &nbsp;·&nbsp; **[Full walkthrough film →](assets/walkthrough.mp4)** &nbsp;·&nbsp; **[Case study on the portfolio →](https://shahzeb-naeem.vercel.app/en/work/darglobal-property-concierge)**
 
 </div>
 
